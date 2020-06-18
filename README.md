@@ -1,2 +1,2 @@
 # Final
-open the "main"
+open the "main.html"
